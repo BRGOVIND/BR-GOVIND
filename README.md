@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Govind</h1>
+<h1 align="center"> Govind here </h1>
 
 <h3 align="center">
 Computer Science Engineering Student • Open Source Contributor • AI Builder
@@ -8,11 +8,11 @@ Computer Science Engineering Student • Open Source Contributor • AI Builder
 
 ## 🚀 About Me
 
-- 🎓 CSE Student at Amrita Vishwa Vidyapeetham
-- 💻 Passionate about Software Engineering, AI and Open Source
-- 🌱 Currently building AI-powered applications and contributing to open-source projects
-- 🥊 Boxing enthusiast and lifelong learner
-- 🎯 Goal: Build production-grade systems and contribute to impactful technology
+- Building AI-powered products that solve real organizational and business problems
+- Contributing to open-source projects and learning from production-grade codebases
+- Interested in software engineering, system design, developer tools, and AI systems
+- Previously worked on data analytics pipelines and business intelligence workflows
+- Always looking for opportunities to build, ship, and learn from real-world projects
 
 ---
 
@@ -51,7 +51,7 @@ Computer Science Engineering Student • Open Source Contributor • AI Builder
 ### 🔍 Knowledge Archaeologist
 AI-powered organizational knowledge discovery platform designed to surface hidden expertise and institutional knowledge.
 
-### 📊 Invoice Analytics Pipeline
+### 📊 SprintB Invoice Analytics Pipeline
 Built an ETL pipeline for cleaning, transforming and analyzing invoice datasets using Python, Pandas and NumPy.
 
 ### 🤖 AI & Automation Projects
